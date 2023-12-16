@@ -1,0 +1,19 @@
+.kvnkjabvav {
+  background-color: #db551b;
+}
+.kvnkjabvav .user-heading h1 {
+  color: var(--orange-head);
+  font-weight: 700;
+  font-size: 3em;
+}
+.kvnkjabvav .showPass{
+    position: relative;
+}
+
+.kvnkjabvav .showPass .showPassIcon{
+  position:absolute ;
+  bottom: 20px ;
+  right: 2px ;
+  font-size: 1.3em ;
+  cursor: pointer;
+}

@@ -1,0 +1,18 @@
+.bg-grey {
+  background: #e5e7eb;
+  width: Fill (232px);
+  height: Hug (48px);
+  padding: 12px;
+  border-radius: 8px;
+}
+nav ul .bg-grey-h:hover {
+  background-color: #e5e7eb;
+  border-radius: 8px;
+  width: Fill (232px);
+  height: Hug (48px);
+  padding: 12px;
+  border-radius: 8px;
+}
+.bg-orange {
+  background-color: var(--orange-head) !important;
+}
